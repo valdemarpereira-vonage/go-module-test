@@ -1,4 +1,4 @@
-module github.com/valdemarpereira-vonage/go-modules-test
+module github.com/valdemarpereira-vonage/go-module-test
 
 go 1.14
 
